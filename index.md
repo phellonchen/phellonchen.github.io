@@ -8,7 +8,7 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 ## Research Interests
 * In general: Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 * **Vision and Language**: Visual Question Answering, Visual Dialog, Vision-and-Language Pre-training, Cross-media Understanding
-* **Dialog System**: Knowledge-Grounded Dialogue System
+* **Dialog System**: Knowledge-Grounded Dialogue System and Multimodal Dialogue System
 
 
 ## Recent News
