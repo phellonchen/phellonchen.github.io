@@ -32,7 +32,7 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 * **2014-2018**, B.Sci., Hefei University of Technology, [School of Computer Science and Infomation Enginering](http://ci.hfut.edu.cn/). (Top 1)
 
 ## Experience
-* **2019.4 - 2020.11**, _Research Intern_, WeChat AI@Tencent, Beijing. Mentor: Fandong Meng
+* **2019.4 - 2020.11**, _Research Intern_, WeChat AI@Tencent, Beijing. Mentor: [Fandong Meng](http://fandongmeng.github.io/)
 
 <!-- * **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University, Utah, USA. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson)
 * **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei, Shenzhen
