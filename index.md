@@ -12,6 +12,7 @@ I am an PhD student in [Institude of Automation, Chinese Academy of Sciences](ht
 
 
 ## Recent News
+* **September 2021**, I am maintaining a repo of a curated reading list about [vision-and-language pre-training papers](https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training)
 <!-- * **Aug 2021**, our CodeT5 paper has been accepted by EMNLP 2021!
 * **April 2021**, research work during Amazon AI internship has been accepted by NAACL 2021 and ICASSP 2021
 * **Jan 2021**, join Salesforce Research Asia as an Applied Scientist
@@ -38,6 +39,8 @@ I am an PhD student in [Institude of Automation, Chinese Academy of Sciences](ht
 * **Summer 2020**, _Applied Scientist Intern_, Amazon AWS AI Lab, California, USA. Mentor: [Marcello Federico](https://sites.google.com/site/marcellofedericohome/) and Hoang Cuong -->
 
 ## Publications 
+* **Feilong Chen**, Fandong Meng, Jiaming Xu, Peng Li, Bo Xu and Jie Zhou. "**DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog**", (**AAAI 2020**) \[[paper](https://arxiv.org/abs/1912.08360)\]\[[code](https://github.com/phellonchen/DMRM\]\
+
 
 <!-- * **Yue Wang**, Weishi Wang, Shafiq Joty, and Steven C.H. Hoi. "**CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation**", (**EMNLP 2021**) \[[paper](https://arxiv.org/abs/2109.00859)\]\[[code](https://github.com/salesforce/CodeT5)\]\[[blog](https://blog.einstein.ai/codet5/)\]\[[media](https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/)\]
 * **Yue Wang**, Cuong Hoang, and Marcello Federico. "**Towards Modeling the Style of Translators in Neural Machine Translation**". (**NAACL 2021**) \[[paper](https://www.amazon.science/publications/towards-modeling-the-style-of-translators-in-neural-machine-translation)\]
