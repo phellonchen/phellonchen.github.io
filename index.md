@@ -90,6 +90,7 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
   - Writing Style Advice from [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/static/style.html)
   - [Common bugs in writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [How to write a god rebuttal?](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)  
+* [Free professional, compelling and adequate visuals and figures](https://github.com/dair-ai/ml-visuals)
 
 
 ## Hobbies
