@@ -30,6 +30,7 @@ I am an PhD student in [Institude of Automation, Chinese Academy of Sciences](ht
 
 ## Experience
 * **2019.4 - 2020.11**, _Research Intern_, WeChat AI@Tencent, Beijing. Mentor: Fandong Meng
+
 <!-- * **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University, Utah, USA. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson)
 * **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei, Shenzhen
 * **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab, Shenzhen. Mentor: [Prof. Jing Li](http://www4.comp.polyu.edu.hk/~jing1li/)
