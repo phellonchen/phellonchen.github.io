@@ -68,11 +68,11 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 <!-- \* denotes being a Reviewer, otherwise being a Subreviewer: -->
 * 2021: AAAI2022
 
-## Skills
+<!-- ## Skills
 * Programming Language: Python (most frequently used), C/C++/C#, Java, Matlab, Bash
 * Tools: Linux, Git, Vim, Latex, Deep Learning Frameworks (Pytorch > Keras > TensorFlow)
 * Deep Learning Models: CNN, RNN, Transformer, BERT, Seq2seq, Memory Networks, Variational Auto-Encoders
-* Languages: English, Chinese
+* Languages: English, Chinese -->
 
 
 <!-- ## Teaching Assistance
@@ -89,7 +89,7 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
   - Yang Liu's 2014 CWMT Tutorial \[[pdf](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)\]
   - Writing Style Advice from [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/static/style.html)
   - [Common bugs in writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
-* [How to write a godd rebuttal?](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)  
+* [How to write a god rebuttal?](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)  
 
 
 ## Hobbies
