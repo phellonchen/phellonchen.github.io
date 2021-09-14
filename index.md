@@ -71,7 +71,7 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 * Programming Language: Python (most frequently used), C/C++/C#, Java, Matlab, Bash
 * Tools: Linux, Git, Vim, Latex, Deep Learning Frameworks (Pytorch > Keras > TensorFlow)
 * Deep Learning Models: CNN, RNN, Transformer, BERT, Seq2seq, Memory Networks, Variational Auto-Encoders
-* Languages: English (professional), Chinese (native)
+* Languages: English, Chinese
 
 
 <!-- ## Teaching Assistance
@@ -82,15 +82,18 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 * ENGG1410A: Linear Algebra and Vector Calculus for Engineers (Spring 2017)
 * ENGG2440A: Discrete Mathematics for Engineers	(Fall 2016) -->
 
-<!-- ## Some Useful Links
+## Some Useful Links
 * Paper Reading: [S. Keshav's advice](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 * Paper Writing:
   - Yang Liu's 2014 CWMT Tutorial \[[pdf](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)\]
   - Writing Style Advice from [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/static/style.html)
   - [Common bugs in writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [How to write a godd rebuttal?](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)  
-* [_A report on me_](https://mp.weixin.qq.com/s/f0lpTI4LJPUXmZcIKofDlQ) from an official association at Sun Yat-sen University -->
+* [_A report on me_](https://mp.weixin.qq.com/s/f0lpTI4LJPUXmZcIKofDlQ) from an official association at Sun Yat-sen University
 
-<!-- ## Hobbies
-* Sports: playing badminton, swimming, hiking
-* Volunteer activities: I co-founded [_Batou volunteer association_](https://mp.weixin.qq.com/s/42OKBVeQeZw6ujNI35r9jg) (Shantou, China) in summer 2013. We offer free tutoring to high school students each summer in my hometown. More than **1000** students have been served until now. -->
+## Hobbies
+* Reading: philosophy, psychology, literature
+* Sports: playing basketball, swimming, running and traveling
+* Photography
+
+
