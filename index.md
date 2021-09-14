@@ -13,7 +13,7 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 
 ## Recent News
 * **September 2021**, I am maintaining a repo of a curated reading list about [vision-and-language pre-training papers](https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training)
-* * **September 2021**, I am maintaining a repo of a curated reading list about [multimodal dialog papers](https://github.com/phellonchen/awesome-visual-dialog)
+* **September 2021**, I am maintaining a repo of a curated reading list about [multimodal dialog papers](https://github.com/phellonchen/awesome-visual-dialog)
 
 
 <!-- * **Aug 2021**, our CodeT5 paper has been accepted by EMNLP 2021!
