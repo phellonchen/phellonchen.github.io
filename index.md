@@ -42,6 +42,7 @@ I am an PhD student in [Institude of Automation, Chinese Academy of Sciences](ht
 
 ## Publications 
 * **Feilong Chen**, Fandong Meng, Jiaming Xu, Peng Li, Bo Xu and Jie Zhou. "**DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog**", (**AAAI 2020**) \[[paper](https://arxiv.org/abs/1912.08360)\]\[[code](https://github.com/phellonchen/DMRM)\]
+* Xiuyi Chen, Fandong Meng, Peng Li, **Feilong Chen**, Shuang Xu, Bo Xu and Jie Zhou. "**Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation**", (**EMNLP 2020**) \[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.275.pdf)\]\[[code](https://github.com/youngornever/bridge_latent_knowledge_selection_gap_for_conversation)\]
 
 
 <!-- * **Yue Wang**, Weishi Wang, Shafiq Joty, and Steven C.H. Hoi. "**CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation**", (**EMNLP 2021**) \[[paper](https://arxiv.org/abs/2109.00859)\]\[[code](https://github.com/salesforce/CodeT5)\]\[[blog](https://blog.einstein.ai/codet5/)\]\[[media](https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/)\]
