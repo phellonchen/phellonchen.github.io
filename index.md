@@ -12,7 +12,7 @@ I am an PhD student in [Institude of Automation, Chinese Academy of Sciences](ht
 
 
 ## Recent News
-* **Aug 2021**, our CodeT5 paper has been accepted by EMNLP 2021!
+<!-- * **Aug 2021**, our CodeT5 paper has been accepted by EMNLP 2021!
 * **April 2021**, research work during Amazon AI internship has been accepted by NAACL 2021 and ICASSP 2021
 * **Jan 2021**, join Salesforce Research Asia as an Applied Scientist
 * **01/12/2020**, I have passed my PHD oral thesis defense! The presentation slide is released at [here](https://yuewang-cuhk.github.io/file/thesis_slide_Yue_final_resize.pdf)
@@ -22,7 +22,7 @@ I am an PhD student in [Institude of Automation, Chinese Academy of Sciences](ht
 * **June 2020**, I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 * **30/09/2019**, join Salesforce Research Singapore as a research intern
 * **27/07/2019**, attend ACL 2019 in Florence, Italy
-* **30/05/2019**, attend NAACL 2019 in Minneapolis, USA
+* **30/05/2019**, attend NAACL 2019 in Minneapolis, USA -->
 
 ## Education
 * **2018-2023**, Ph.D. candidate, Institude of Automation, Chinese Academy of Sciences, Supervisor: Prof. Bo Xu
