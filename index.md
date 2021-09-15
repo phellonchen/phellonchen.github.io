@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn), under the supervision of [Prof. Bo Xu](http://people.ucas.ac.cn/~xubo). My research interest focuses on *vision-and-language* (e.g., visual-and-language pre-training, visual question answering, visual dialog) and *dialogue system*. See my [Sementic scholar]() for more details. My Email: [phellon.chen@gmail.com](mailto:phellon.chen@gmail.com).
+I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn), under the supervision of [Prof. Bo Xu](http://people.ucas.ac.cn/~xubo). My research interest focuses on *vision-and-language* (e.g., visual-and-language pre-training, visual question answering, visual dialog) and *dialogue system*. See my [Sementic scholar](https://www.semanticscholar.org/author/Feilong-Chen/49102717) for more details. My Email: [phellon.chen@gmail.com](mailto:phellon.chen@gmail.com).
 
 ## Research Interests
 * In general: Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
