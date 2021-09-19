@@ -56,13 +56,15 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 * Jian Li, **Yue Wang**, Michael R. Lyu, Irwin King. **Code Completion with Neural Attention and Pointer Networks**. Stockholm, Sweden (**IJCAI 2018**, Oral). \[[paper](https://www.ijcai.org/proceedings/2018/0578.pdf)\]\[[slide](https://yuewang-cuhk.github.io/file/ijcai18_slide.pdf)\]
 * **Yue Wang**, Zibin Zheng, Michael R. Lyu. **Entropy-based Service Selection with Uncertain QoS for Mobile Cloud Computing**.  Hangzhou, China (**IEEE CIC 2015**).  -->
 
-<!-- ## Selected Awards
-* 2013, National Scholarship awarded by The Ministry of Education, China (Top 1)
-* 2014, 2015, National Endeavor Fellowship awarded by The Ministry of Education, China (Top 3)
-* 2015, Honorable Mention in Mathematical Contest in Modeling
-* 2015, Third Prize in the 13th Guangdong Collegiate Programming Contest (ACM-ICPC GDCPC’2015)  
-* 2016, Outstanding Graduate Student of Sun Yat-sen University (Top 3) 
-* 2016-2020, CUHK Postgraduate Student Scholarship -->
+## Selected Awards
+* 2015, National Scholarship awarded by The Ministry of Education, China (Top 1)
+* 2016, National Endeavor Fellowship awarded by The Ministry of Education, China (Top 1)
+* 2017, First Prize in Chinese Mathematical Contest in Modeling of Anhui Division
+* 2017, Second Prize in China College Students' 'Internet+' Innovation and Entrepreneurship Competition  
+* 2017, Second Prize in Chinese Undergraduate Computer Design Contest  
+* 2018, Outstanding undergraduate Student of Sun Yat-sen University (Top 3) 
+* 2018, Outstanding undergraduate Student of Anhui Province
+* 2018, Tongze Scholarship awarded by Hefei Unsersity of Technology (Top 1%)
 
 ## Review Services
 <!-- \* denotes being a Reviewer, otherwise being a Subreviewer: -->
