@@ -59,12 +59,12 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 ## Selected Awards
 * 2015, National Scholarship awarded by The Ministry of Education, China (Top 1)
 * 2016, National Endeavor Fellowship awarded by The Ministry of Education, China (Top 1)
-* 2017, First Prize in Chinese Mathematical Contest in Modeling of Anhui Division
-* 2017, Second Prize in China College Students' 'Internet+' Innovation and Entrepreneurship Competition  
-* 2017, Second Prize in Chinese Undergraduate Computer Design Contest  
-* 2018, Outstanding undergraduate Student of Sun Yat-sen University (Top 3) 
-* 2018, Outstanding undergraduate Student of Anhui Province
+* 2017, First Prize in Chinese Mathematical Contest in Modeling of Anhui Province
+* 2017, Second Prize in China College Students' 'Internet+' Innovation and Entrepreneurship Competition of Anhui Province
+* 2017, Second Prize in Chinese Undergraduate Computer Design Contest of Anhui Province
+* 2018, Outstanding undergraduate Student of Hefei Unsersity of Technology (Top 3) 
 * 2018, Tongze Scholarship awarded by Hefei Unsersity of Technology (Top 1%)
+* 2018, Outstanding undergraduate Student of Anhui Province
 
 ## Review Services
 <!-- \* denotes being a Reviewer, otherwise being a Subreviewer: -->
