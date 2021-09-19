@@ -62,8 +62,8 @@ I am an Ph.D candidate in [Institude of Automation, Chinese Academy of Sciences]
 * 2017, First Prize in Chinese Mathematical Contest in Modeling of Anhui Province
 * 2017, Second Prize in China College Students' 'Internet+' Innovation and Entrepreneurship Competition of Anhui Province
 * 2017, Second Prize in Chinese Undergraduate Computer Design Contest of Anhui Province
-* 2018, Outstanding undergraduate Student of Hefei Unsersity of Technology (Top 3) 
-* 2018, Tongze Scholarship awarded by Hefei Unsersity of Technology (Top 1%)
+* 2018, Outstanding undergraduate Student of Hefei University of Technology (Top 3) 
+* 2018, Tongze Scholarship awarded by Hefei University of Technology (Top 1%)
 * 2018, Outstanding undergraduate Student of Anhui Province
 
 ## Review Services
