@@ -7,7 +7,7 @@ Feilong Chen is currently a researcher (Huawei TopMinds) at Huawei. His research
 He received the Ph.D. degree in [Institude of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn), under the supervision of [Prof. Bo Xu](http://people.ucas.ac.cn/~xubo) and the B.Sc. degree in computer sciences from Hefei University of Technology.
 
 # Hiring
-He is looking for highly self-motivated students to work with me as research interns. Feel free to contact me via email at phellon.chen@gmail.com.
+He is looking for highly self-motivated students to work with him as research interns. Feel free to contact him via email at phellon.chen@gmail.com.
 
 
 ## Experience
