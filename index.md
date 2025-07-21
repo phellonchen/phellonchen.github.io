@@ -11,9 +11,9 @@ He is looking for highly self-motivated students to work with him as research in
 
 
 ## Experience
-* **Researcher (Huawei TopMinds) **, **2023.7 - Now**, Huawei, Beijing
+* **Researcher (Huawei TopMinds)**, **2023.7 - Now**, Huawei, Beijing
 * **Research Intern**, **2021.5 - 2021.12**, Microsoft AI, Beijing. Mentor: Can Xu
-* **Research Intern**, **2019.4 - 2020.11**, WeChat AI@Tencent, Beijing. Mentor: [Fandong Meng](http://fandongmeng.github.io/)
+* **Research Intern (Tencent AI Lab Rhino-Bird Focused Research Program)**, **2019.4 - 2020.11**, WeChat AI@Tencent, Beijing. Mentor: [Fandong Meng](http://fandongmeng.github.io/)
 
 ## Selected  Publications 
 * Ziyi Ni, Minglun Han, **Feilong Chen**, Linghui Meng, Jing Shi, Pin Lv, Bo Xu, Vilas: Exploring the effects of vision and language context in automatic speech recognition, ICASPP 2024
