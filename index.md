@@ -39,14 +39,15 @@ He is looking for highly self-motivated students to work with him as research in
 
 
 ## Selected Awards
-* 2015, National Scholarship awarded by The Ministry of Education, China (Top 1)
-* 2016, National Endeavor Fellowship awarded by The Ministry of Education, China (Top 1)
-* 2017, First Prize in Chinese Mathematical Contest in Modeling of Anhui Province
-* 2017, Second Prize in China College Students' 'Internet+' Innovation and Entrepreneurship Competition of Anhui Province
-* 2017, Second Prize in Chinese Undergraduate Computer Design Contest of Anhui Province
-* 2018, Outstanding undergraduate Student of Hefei University of Technology (Top 3) 
-* 2018, Tongze Scholarship awarded by Hefei University of Technology (Top 1%)
-* 2018, Outstanding undergraduate Student of Anhui Province
+* 2024​​, CBG President Team Award
+* ​​2018​​, Outstanding Undergraduate Student of Anhui Province
+​​* 2018​​, Tongze Scholarship awarded by Hefei University of Technology (Top 1%)
+​​* 2018​​, Outstanding Undergraduate Student of Hefei University of Technology (Top 3)
+* ​​2017​​, Second Prize in Chinese Undergraduate Computer Design Contest (Anhui Province)
+* ​​2017​​, Second Prize in China College Students’ “Internet+” Innovation and Entrepreneurship Competition (Anhui Province)
+* ​​2017​​, First Prize in Chinese Mathematical Contest in Modeling (Anhui Province)
+​​* 2016​​, National Endeavor Fellowship awarded by the Ministry of Education, China (Top 1%)
+​​* 2015​​, National Scholarship awarded by the Ministry of Education, China (Top 1%)
 
 ## Review Services
 <!-- \* denotes being a Reviewer, otherwise being a Subreviewer: -->
