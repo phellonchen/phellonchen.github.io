@@ -9,6 +9,9 @@ He received the Ph.D. degree in [Institude of Automation, Chinese Academy of Sci
 # Hiring
 He is looking for highly self-motivated students to work with him as research interns. Feel free to contact him via email at phellon.chen@gmail.com.
 
+## Recent News
+* The fisrt Omin-modal large language model: ''X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages''
+* The first suvery on vison language pretraining: ''VLP: A survey on vision-language pre-training''
 
 ## Experience
 * **Researcher (Huawei TopMinds)**, **2023.7 - Present**, Huawei, Beijing, lead the Research & Development of Multimodal Training Framework on Ascend NPUs, Multimodal Data Construction, and MLLM's Pretraining & Finetuning
@@ -21,7 +24,7 @@ He is looking for highly self-motivated students to work with him as research in
 * Duzhen Zhang, **Feilong Chen**, Xiuyi Chen, Dualgats: Dual graph attention networks for emotion recognition in conversations, ACL 2023
 * Duzhen Zhang, Yahan Yu, **Feilong Chen**, Xiuyi Chen, Decomposing logits distillation for incremental named entity recognition, SIGIR 2023
 * **Feilong Chen**, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo Xu, X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages
-* Minglun Han, Feilong Chen, Jing Shi, Shuang Xu, Bo Xu, Knowledge transfer from pre-trained language models to cif-based speech recognizers via hierarchical distillation, Interspeech 2023
+* Minglun Han, **Feilong Chen**, Jing Shi, Shuang Xu, Bo Xu, Knowledge transfer from pre-trained language models to cif-based speech recognizers via hierarchical distillation, Interspeech 2023
 * **Feilong Chen**, Minglun Han, Jing Shi, Shuang Xu, Bo XuEnhancing Visual Question Answering via Deconstructing Questions and Explicating Answers, Interspeech 2023
 * **Feilong Chen**, Duzhen Zhang, Xiuyi Chen, Jing Shi, Shuang Xu, Bo Xu, Unsupervised and pseudo-supervised vision-language alignment in visual dialog, ACM MM
 * **Feilong Chen**, Xiuyi Chen, Jiaxin Shi, Duzhen Zhang, Jianlong Chang, Qi Tian, HiVLP: Hierarchical vision-language pre-training for fast image-text retrieval
