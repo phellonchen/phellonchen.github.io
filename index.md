@@ -10,7 +10,7 @@ He received the Ph.D. degree in [Institude of Automation, Chinese Academy of Sci
 He is looking for highly self-motivated students to work with him as research interns. Feel free to contact him via email at phellon.chen@gmail.com.
 
 ## Recent News
-* The fisrt Omin-modal large language model: ''X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages''
+* The fisrt Omni-modal large language model: ''X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages''
 * The first suvery on vison language pretraining: ''VLP: A survey on vision-language pre-training''
 
 ## Experience
