@@ -11,7 +11,7 @@ He is looking for highly self-motivated students to work with him as research in
 
 
 ## Experience
-* **Researcher (Huawei TopMinds)**, **2023.7 - Present**, Huawei, Beijing, lead the Research & Development of Multimodal Training Framework on Ascend NPUs, Multimodal Data Construction, and MLLM's Pretraining & Fine-Tuning
+* **Researcher (Huawei TopMinds)**, **2023.7 - Present**, Huawei, Beijing, lead the Research & Development of Multimodal Training Framework on Ascend NPUs, Multimodal Data Construction, and MLLM's Pretraining & Finetuning
 * **Research Intern**, **2021.5 - 2021.12**, Microsoft AI, Beijing. Mentor: Can Xu
 * **Research Intern (Tencent Rhino-Bird Elite Talent Program)**, **2019.4 - 2020.11**, WeChat AI@Tencent, Beijing. Mentor: [Fandong Meng](http://fandongmeng.github.io/)
 
