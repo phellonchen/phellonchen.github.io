@@ -1,0 +1,367 @@
+:root {
+    --primary-color: #2c3e50;
+    --accent-color: #3498db;
+    --text-color: #333;
+    --bg-color: #f4f7f6;
+    --sidebar-bg: #fff;
+    --border-color: #eee;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100vh;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    width: 300px;
+    background-color: var(--sidebar-bg);
+    padding: 40px 30px;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    border-right: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    transform: scale(1.2);
+    margin-bottom: 20px;
+    border: 3px solid var(--accent-color);
+    overflow: hidden;
+}
+
+.sidebar h1 {
+    font-size: 1.8rem;
+    margin-bottom: 5px;
+    color: var(--primary-color);
+}
+
+.en-name {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 0.9rem;
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.lang-switch {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.lang-switch button {
+    background: none;
+    border: none;
+    color: #888;
+    cursor: pointer;
+    padding: 0 5px;
+    font-size: 0.9rem;
+    transition: color 0.3s;
+}
+
+.lang-switch button.active {
+    color: var(--accent-color);
+    font-weight: bold;
+}
+
+.lang-switch button:hover {
+    color: var(--accent-color);
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    color: #555;
+    font-size: 1.5rem;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: var(--accent-color);
+}
+
+.sidebar nav {
+    width: 100%;
+}
+
+.sidebar nav ul {
+    list-style: none;
+}
+
+.sidebar nav ul li {
+    margin-bottom: 15px;
+}
+
+.sidebar nav ul li a {
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+    display: block;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+}
+
+.sidebar nav ul li a:hover {
+    background-color: #f0f7ff;
+    color: var(--accent-color);
+}
+
+/* Main Content Styles */
+.content {
+    flex: 1;
+    padding: 60px 50px;
+    background-color: #fff;
+}
+
+section {
+    margin-bottom: 60px;
+    scroll-margin-top: 40px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    border-bottom: 2px solid var(--accent-color);
+    display: inline-block;
+    margin-bottom: 30px;
+    padding-bottom: 5px;
+    color: var(--primary-color);
+}
+
+p {
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.hiring-box {
+    background-color: #fff8e1;
+    border-left: 5px solid #ffc107;
+    padding: 15px 20px;
+    margin: 25px 0;
+    border-radius: 4px;
+}
+
+/* Timeline */
+.timeline {
+    border-left: 2px solid var(--border-color);
+    padding-left: 30px;
+    position: relative;
+}
+
+.timeline .item {
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.timeline .item::before {
+    content: "";
+    width: 12px;
+    height: 12px;
+    background-color: var(--accent-color);
+    border-radius: 50%;
+    position: absolute;
+    left: -37px;
+    top: 6px;
+}
+
+.timeline .date {
+    font-size: 0.9rem;
+    color: #888;
+    font-weight: bold;
+}
+
+.timeline h3 {
+    font-size: 1.1rem;
+    margin: 5px 0;
+}
+
+/* Publications */
+.pub-item {
+    margin-bottom: 35px;
+    display: flex;
+    gap: 20px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.pub-img {
+    flex-shrink: 0;
+}
+
+.pub-img img {
+    width: 200px;
+    height: 120px;
+    object-fit: contain;
+    background-color: #fcfcfc;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.pub-info {
+    flex: 1;
+}
+
+.pub-title {
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+.pub-authors {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.pub-venue {
+    font-size: 0.9rem;
+    color: var(--accent-color);
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.pub-links {
+    margin-top: 10px;
+}
+
+.pub-links a {
+    text-decoration: none;
+    font-size: 0.85rem;
+    color: #666;
+    background: #f8f9fa;
+    padding: 4px 12px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    margin-right: 8px;
+    transition: all 0.3s;
+    display: inline-block;
+}
+
+.pub-links a:hover {
+    background: var(--accent-color);
+    color: #fff;
+    border-color: var(--accent-color);
+}
+
+.bibtex {
+    display: none;
+    background-color: #f4f4f4;
+    padding: 15px;
+    font-family: monospace;
+    font-size: 0.8rem;
+    white-space: pre-wrap;
+    border-radius: 4px;
+    margin-top: 15px;
+    border-left: 3px solid var(--accent-color);
+    color: #333;
+}
+
+.more-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.more-link:hover {
+    text-decoration: underline;
+}
+
+/* Honors */
+.honor-list {
+    list-style: none;
+}
+
+.honor-list li {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.honor-list .year {
+    background-color: #eee;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    margin-right: 15px;
+    min-width: 50px;
+    text-align: center;
+    color: #666;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px;
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+/* Language Toggle Visibility */
+.lang-en .zh { display: none !important; }
+.lang-zh .en { display: none !important; }
+
+/* Mobile Responsive */
+@media (max-width: 900px) {
+    .container {
+        flex-direction: column;
+    }
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+        padding: 40px 20px;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+    }
+    .content {
+        padding: 40px 20px;
+    }
+    .pub-item {
+        flex-direction: column;
+    }
+    .pub-img img {
+        width: 100%;
+        height: auto;
+    }
+}
